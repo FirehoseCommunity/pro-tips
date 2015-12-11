@@ -5,3 +5,5 @@ A collection of knowledge and advice from the Firehose Community!
 [How to Contribute to Pro-Tips](docs/how_to_contribute_to_pro_tips.md) -- [Hiromi Kawanishi](https://github.com/hkawanishi)
 
 [How to Set Up Postgresql on Cloud9 Online IDE](docs/c9-postgres.md) -- [Jonathan Pike](https://github.com/jonathanpike)
+
+[Quick Reference List for Git, Heroku, Rails, and Naming Conventions](docs/quick_reference.md) -- [Walley Yang](https://github.com/WalleyYang)
